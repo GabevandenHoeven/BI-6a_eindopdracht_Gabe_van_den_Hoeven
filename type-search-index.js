@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"OpenHumanSNP"},{"p":"<Unnamed>","l":"SNPinder"},{"p":"<Unnamed>","l":"Variant"}]
